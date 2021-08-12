@@ -47,6 +47,7 @@ body {
   padding: 25px;
 }
 .country__box__content .country__title {
+  font-size: 22px;
   margin-bottom: 20px;
 }
 .country__box__content .country__feature__item {
